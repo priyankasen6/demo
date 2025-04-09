@@ -1,2 +1,3 @@
-# demo
-my first repo
+# Demo
+My First Repository.
+Author- Priyanka Sen
